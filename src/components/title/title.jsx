@@ -1,3 +1,10 @@
+/* 
+Exemplo de componentes react com
+ propriedades props childrens
+*/
+
+
+
 import styles from './Title.module.css'
 
 //const usuario ='Joe Max' 
