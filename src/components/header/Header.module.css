@@ -1,0 +1,16 @@
+.header{
+  min-height: 80vh;
+  background-color: #594126;
+  display:flex;
+  align-items:center;
+ 
+} 
+
+.headerCafe{
+  padding-left: 60px;
+ 
+}
+
+.text{
+  padding-right: 10px;
+}
